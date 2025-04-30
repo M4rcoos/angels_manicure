@@ -1,0 +1,16 @@
+/* 🔴 Cor das setas */
+.swiper-button-next,
+.swiper-button-prev {
+  color: #8047f8; /* Altere para a cor desejada */
+  font-size: 20px;
+}
+
+/* 🟢 Cor dos pontinhos */
+.swiper-pagination-bullet {
+  background-color: #ebe5f9; /* Cor padrão */
+  opacity: 1;
+}
+
+.swiper-pagination-bullet-active {
+  background-color:#4B2995; /* Cor quando está ativo */
+}

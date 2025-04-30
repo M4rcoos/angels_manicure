@@ -3,12 +3,27 @@ import { BeautyServices } from "@/components/intro";
 import { Section } from "@/components/section";
 import { FaCalendarAlt } from "react-icons/fa";
 
+import './swipper.css';
+
+import "swiper/css";
+import "swiper/css/navigation";
+import "swiper/css/pagination";
+import "swiper/css/scrollbar";
+
+import { ServiceCards } from "@/components/services-card/service-card";
+import { SwiperSlides } from "@/components/swiper/swiper";
+
 export const Home = () => {
+
+
   return (
     <>
       <BeautyServices />
-      <CardItem />
+
+      <ServiceCards />
+      <SwiperSlides />
       <Section />
+
 
       <a
         href="https://minhaagendavirtual.com.br/agendamentos/incluir/nailsdebora/33347475A"
