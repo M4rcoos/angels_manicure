@@ -1,5 +1,6 @@
 import manicure from "@/assets/nail-polish.png"
 import pedicure from "@/assets/pedicure.png"
+import { FaSpa } from "react-icons/fa";
 
 export function ServiceCards() {
     return (
