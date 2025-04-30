@@ -6,7 +6,6 @@ import unha03 from "@/assets/unha-03.jpg"
 import unha04 from "@/assets/unha-04.jpg"
 import unha05 from "@/assets/unha-05.jpg"
 
-import InstagramEmbed from "@/components/ui/instagram-embed";
 
 export function SwiperSlides() {
     const images = [

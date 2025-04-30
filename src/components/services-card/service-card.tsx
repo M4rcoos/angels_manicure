@@ -1,8 +1,5 @@
-import { FaHandSparkles, FaWalking, FaSpa } from "react-icons/fa";
-import { ServiceItem } from "../services-item";
 import manicure from "@/assets/nail-polish.png"
 import pedicure from "@/assets/pedicure.png"
-import pedicureMassagem from "@/assets/foot-massage.png"
 
 export function ServiceCards() {
     return (

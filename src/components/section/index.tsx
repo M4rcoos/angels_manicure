@@ -1,5 +1,4 @@
 
-import mulher from "@/assets/mulher.png"
 import InstagramEmbed from "../ui/instagram-embed";
 
 export const Section = () => {

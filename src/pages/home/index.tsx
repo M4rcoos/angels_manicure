@@ -1,4 +1,3 @@
-import { CardItem } from "@/components/card-item";
 import { BeautyServices } from "@/components/intro";
 import { Section } from "@/components/section";
 import { FaCalendarAlt } from "react-icons/fa";
